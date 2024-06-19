@@ -1,6 +1,6 @@
-## Hi there, my name is 👋
+## Hi there 👋
 
-# Hugo Viana Aguiar Santos
+My name is # Hugo Viana
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hugo--viana-blue)](https://www.linkedin.com/in/hugo-viana/)
 
