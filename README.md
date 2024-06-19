@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is 👋
 
 # Hugo Viana Aguiar Santos
 
