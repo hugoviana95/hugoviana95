@@ -20,12 +20,6 @@ I am a professional with a degree in Electrical Engineering, currently transitio
 
 - **Email:** hugovasantos@gmail.com
 
-
----
-
-Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out.
-
-
 <!--
 **hugoviana95/hugoviana95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
