@@ -16,21 +16,19 @@ I am a professional with a degree in Electrical Engineering, currently transitio
 - **KPI and Dashboard Management** 📊
 - **Process Automation** 🤖
 
+## Projects
+
+### Crypto ETL, Regression model and Dashboard
+
+- #### [Crypto ETL](https://github.com/hugoviana95/crypto-etl.git)<br>
+  ETL process using Apache Airflow and Pyspark
+
+### Kaggle competitions
+
+- #### [Store Sales - Time Series Forecasting](https://github.com/hugoviana95/store-sales-time-series-forecasting.git)<br>
+  Regression model using LightGBM. <br>
+  [Link for te competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
+
 ## Contact
 
 - **Email:** hugovasantos@gmail.com
-
-<!--
-**hugoviana95/hugoviana95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
