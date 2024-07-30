@@ -18,7 +18,7 @@ I am a professional with a degree in Electrical Engineering, currently transitio
 
 ## Projects
 
-### Crypto ETL, Regression model and Dashboard
+### Crypto ETL
 
 - #### [Crypto ETL](https://github.com/hugoviana95/crypto-etl.git)<br>
   ETL process using Apache Airflow and Pyspark
