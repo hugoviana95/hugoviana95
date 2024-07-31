@@ -27,7 +27,6 @@ I am a professional with a degree in Electrical Engineering, currently transitio
 
 - #### [Store Sales - Time Series Forecasting](https://github.com/hugoviana95/store-sales-time-series-forecasting.git)<br>
   Regression model using LightGBM. <br>
-  [Link for te competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 
 ## Contact
 
