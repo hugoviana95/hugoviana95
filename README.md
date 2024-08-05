@@ -36,6 +36,3 @@ I am a professional with a degree in Electrical Engineering who has learned how 
 - ### [Store Sales - Time Series Forecasting](https://github.com/hugoviana95/store-sales-time-series-forecasting.git)<br>
   Regression model using LightGBM. <br>
 
-## Contact
-
-- **Email:** hugovasantos@gmail.com
